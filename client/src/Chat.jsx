@@ -37,7 +37,7 @@ function Chat({ socket, username, room }) {
         {" "}
         <img
           src="logo.png"
-          alt="Girl in a jacket"
+          alt="Logo"
           width="200"
           height="200"
           style={{ marginTop: "30px" }}
