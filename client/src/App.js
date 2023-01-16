@@ -22,7 +22,7 @@ function App() {
       {!showChat ?
       (
       <div className="joinChatContainer">
-        <img src="logo.png" alt="Girl in a jacket" width="280" height="280" style={{marginLeft:"600px", marginTop:"30px"}}/>
+        <img src="logo.png" alt="Logo" width="280" height="280" style={{marginLeft:"600px", marginTop:"30px"}}/>
         <h1>Join a Chat</h1>
         <div className="tooltip">
           <span class="tooltiptext">Ask Basic about this one</span>
